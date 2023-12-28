@@ -1,4 +1,4 @@
-module github.com/Liberxue/cue_example/config
+module github.com/Liberxue/cue_example
 
 go 1.21.1
 
